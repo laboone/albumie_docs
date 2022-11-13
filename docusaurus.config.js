@@ -9,7 +9,7 @@ const config = {
   title: 'Albumie ドキュメント',
   tagline: 'AlbumieはAI(人工知能)による顔認識機能を持った卒業アルバム作成支援サービスです',
   url: 'https://docs.albumie.app',
-  baseUrl: '/albumie_docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
