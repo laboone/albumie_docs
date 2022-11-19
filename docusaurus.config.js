@@ -50,8 +50,10 @@ const config = {
       navbar: {
         title: 'Albumie',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Albumie Logo',
           src: 'img/picture.svg',
+          width: '32',
+          height: '32'
         },
         items: [],
       },
