@@ -49,9 +49,8 @@ const sidebars = {
       ],
     },
     {
-      type: 'link',
-      label: 'お問合せ',
-      href: 'https://docs.google.com/forms/d/1cNOopskyfno0MVrXyGLwSCociKAzPu1elNI0TBNUucE',
+      type: 'doc',
+      id: "inquiry"
     },
   ],
 };
