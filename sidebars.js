@@ -48,16 +48,16 @@ const sidebars = {
         },
       ],
     },
-    // {
-    //   type: 'category',
-    //   label: '一歩すすんだ操作',
-    //   items: [
-    //     {
-    //       type: 'doc',
-    //       id: 'advanced/create-collection',
-    //     }
-    //   ]
-    // },
+    {
+      type: 'category',
+      label: '一歩すすんだ操作',
+      items: [
+        {
+          type: 'doc',
+          id: 'advanced/create-collection',
+        }
+      ]
+    },
     {
       type: 'category',
       label: 'よくあるご質問',
