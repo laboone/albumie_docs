@@ -55,6 +55,10 @@ const sidebars = {
         {
           type: 'doc',
           id: 'advanced/create-collection',
+        },
+        {
+          type: 'doc',
+          id: 'advanced/delete-photo',
         }
       ]
     },
