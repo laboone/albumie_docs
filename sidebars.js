@@ -68,6 +68,20 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: '有料プラン',
+      items: [
+        {
+          type: 'doc',
+          id: 'plan/paid-plan',
+        },
+        {
+          type: 'doc',
+          id: 'plan/cancel-plan',
+        },
+      ]
+    },
+    {
+      type: 'category',
       label: 'よくあるご質問',
       items: [
         {
