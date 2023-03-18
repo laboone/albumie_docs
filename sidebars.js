@@ -78,6 +78,10 @@ const sidebars = {
           type: 'doc',
           id: 'plan/cancel-plan',
         },
+        {
+          type: 'doc',
+          id: 'plan/change-email',
+        },
       ]
     },
     {
