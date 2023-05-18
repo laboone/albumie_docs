@@ -46,6 +46,10 @@ const sidebars = {
           type: 'doc',
           id: 'tutorial/create-album',
         },
+        {
+          type: 'doc',
+          id: 'tutorial/download-album',
+        },
       ],
     },
     {
