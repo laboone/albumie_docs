@@ -48,7 +48,7 @@ sidebar_position: 5
 :::
 
 :::tip
-より厳密に同じ人物かどうかを判定する場合は、[顔認識の精度を上げる](/advanced/face-recognition-accuracy)をご確認ください。
+より厳密に同じ人物かどうかを判定する場合は、[顔認識の精度調整](/advanced/face-recognition-accuracy)をご確認ください。
 :::
 
 5. 最後に写真の自動選択をやってみましょう。  

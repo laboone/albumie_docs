@@ -66,6 +66,10 @@ const sidebars = {
         },
         {
           type: 'doc',
+          id: 'advanced/album-photo-category',
+        },
+        {
+          type: 'doc',
           id: 'advanced/delete-photo',
         },
         {
