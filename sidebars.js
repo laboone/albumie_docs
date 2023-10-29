@@ -58,6 +58,10 @@ const sidebars = {
       items: [
         {
           type: 'doc',
+          id: 'advanced/add-people',
+        },
+        {
+          type: 'doc',
           id: 'advanced/face-recognition-accuracy',
         },
         {
