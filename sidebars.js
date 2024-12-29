@@ -74,6 +74,10 @@ const sidebars = {
         },
         {
           type: 'doc',
+          id: 'advanced/add-class',
+        },
+        {
+          type: 'doc',
           id: 'advanced/delete-photo',
         },
         {
