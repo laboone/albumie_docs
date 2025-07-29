@@ -116,6 +116,11 @@ const sidebars = {
           type: 'doc',
           id: 'faq/receipt'
         },
+        {
+          type: 'doc',
+          id: 'faq/appearance-change'
+        },
+
       ]
     },
     {
