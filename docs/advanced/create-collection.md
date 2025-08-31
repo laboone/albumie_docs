@@ -24,7 +24,7 @@ sidebar_label: '写真を分けて管理'
     ![collection pulldwon](/img/docs/collection-pulldown.jpg)
 
 :::tip
-作成できるコレクションの数は最大20コレクションです。
+作成できるコレクションの数は最大10コレクションです。
 :::
 
 ## コレクションの削除
