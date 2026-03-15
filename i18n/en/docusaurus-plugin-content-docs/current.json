@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.基本的な操作方法": {
+    "message": "Basic Operations",
+    "description": "The label for category '基本的な操作方法' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.一歩すすんだ操作": {
+    "message": "Advanced Operations",
+    "description": "The label for category '一歩すすんだ操作' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.有料プラン": {
+    "message": "Paid Plans",
+    "description": "The label for category '有料プラン' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.よくあるご質問": {
+    "message": "FAQ",
+    "description": "The label for category 'よくあるご質問' in sidebar 'tutorialSidebar'"
+  }
+}

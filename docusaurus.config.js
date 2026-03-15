@@ -7,7 +7,7 @@ const darkCodeTheme = prismThemes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Albumie ドキュメント',
+  title: 'Albumie',
   tagline: 'AlbumieはAI(人工知能)による顔認識機能を持った卒業アルバム作成支援サービスです',
   url: 'https://docs.albumie.app',
   baseUrl: '/',
@@ -17,6 +17,7 @@ const config = {
       onBrokenMarkdownLinks: 'warn',
     },
   },
+  scripts: ['/root-redirect.js'],
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
@@ -29,7 +30,19 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'ja',
-    locales: ['ja'],
+    locales: ['ja', 'en'],
+    localeConfigs: {
+      ja: {
+        label: '日本語',
+        htmlLang: 'ja-JP',
+        path: 'ja',
+      },
+      en: {
+        label: 'English',
+        htmlLang: 'en-US',
+        path: 'en',
+      },
+    },
   },
 
   presets: [
@@ -61,9 +74,15 @@ const config = {
           alt: 'Albumie Logo',
           src: 'img/picture.svg',
           width: '32',
-          height: '32'
+          height: '32',
         },
-        items: [],
+        items: [
+          {
+            type: 'localeDropdown',
+            position: 'right',
+            queryString: '?fromLocaleSwitch=1',  // 言語を切り替えた場合にリダイレクトされないように。詳細は root-redirect.js を参照
+          },
+        ],
       },
       footer: {
         style: 'dark',
