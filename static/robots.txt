@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://docs.albumie.app/sitemap.xml
+Sitemap: https://docs.albumie.app/en/sitemap.xml
