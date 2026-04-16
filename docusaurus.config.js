@@ -55,6 +55,9 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: false,
+        sitemap: {
+          ignorePatterns: ['/enterprise', '/en/enterprise'],
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
