@@ -46,7 +46,7 @@ If you want stricter person matching, see [Adjust Face Recognition Accuracy](/ad
 
 5. Finally, try auto-select.
  Click **Auto Add Photos** in the top-right corner.
- The auto-add page appears. Enter the target number of album photos and click **Add Photos**.
+ The auto-add page appears. Enter the target number of album photos and click **Auto Add Photos**.
  Albumie automatically selects photos so that the number of photos per person is balanced.
 
 
