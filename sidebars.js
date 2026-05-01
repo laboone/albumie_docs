@@ -83,6 +83,10 @@ const sidebars = {
         {
           type: 'doc',
           id: 'advanced/user-management',
+        },
+        {
+          type: 'doc',
+          id: 'advanced/delete-account',
         }
       ]
     },
