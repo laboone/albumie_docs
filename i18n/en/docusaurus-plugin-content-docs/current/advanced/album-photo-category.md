@@ -41,3 +41,8 @@ Steps:
 8. After finishing categorization, click **Done** in the top-right area.
    To remove a category, select photos with that category, open the category popup,
    leave the category field empty, and click **Set**.
+
+:::tip
+You can download photos from the selected category.
+Click the category you want to download, then click the **︙** button in the top-right area and choose **Download Selected Category Files**.
+:::
