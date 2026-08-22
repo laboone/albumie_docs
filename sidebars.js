@@ -66,6 +66,10 @@ const sidebars = {
         },
         {
           type: 'doc',
+          id: 'advanced/auto-select-photos-with-ai',
+        },
+        {
+          type: 'doc',
           id: 'advanced/create-collection',
         },
         {

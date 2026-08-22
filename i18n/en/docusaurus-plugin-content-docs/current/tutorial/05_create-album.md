@@ -49,6 +49,10 @@ If you want stricter person matching, see [Adjust Face Recognition Accuracy](/ad
  The auto-add page appears. Enter the target number of album photos and click **Auto Add Photos**.
  Albumie automatically selects photos so that the number of photos per person is balanced.
 
+:::tip Recommended
+You can also have advanced AI automatically select the best photos for your album.
+For details, see [Select Photos with Advanced AI](/advanced/auto-select-photos-with-ai).
+:::
 
 6. After selection completes, a list of added photos is shown.
  If everything looks good, click **Done** in the top-right corner.
