@@ -30,6 +30,13 @@ Once analysis is complete, you can configure **AI Photo Selection Mode** on the 
 There are two selection modes:
 
 - Prioritize best photos
-  - Selects photos with the highest AI ratings first, while avoiding photos that are too similar to already selected ones
+  - Chooses each person's highest AI-rated shots, skipping any that look too much like that person's earlier picks
 - Prioritize varied scenes
-  - Prioritizes selecting a diverse range of photos, while choosing higher AI-rated ones among them
+  - Chooses shots that bring in new scenes, skipping any that look too much like what has already been picked, including other people's photos
+
+:::info
+So that near-identical photos such as burst shots do not fill up the album, duplicate photos are excluded from the auto-selection candidates.
+Photos that duplicate ones already added to the album are excluded as well.
+If only duplicates remain as candidates, photo selection for that person stops there.
+Albumie does not pad the album with near-identical photos, so the album may end up with fewer photos than the number you specified.
+:::
