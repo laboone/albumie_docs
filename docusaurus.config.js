@@ -17,7 +17,7 @@ const config = {
       onBrokenMarkdownLinks: 'warn',
     },
   },
-  scripts: ['/root-redirect.js'],
+  scripts: ['/language-banner.js'],
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
@@ -83,7 +83,6 @@ const config = {
           {
             type: 'localeDropdown',
             position: 'right',
-            queryString: '?fromLocaleSwitch=1',  // 言語を切り替えた場合にリダイレクトされないように。詳細は root-redirect.js を参照
           },
         ],
       },

@@ -15,6 +15,10 @@ When downloading files, your browser may show a popup asking for permission to d
 Please allow it.
 :::
 
+:::tip
+On the People View page, choose **Print / Save as PDF** from the **︙** menu to print the photo list for each person or save it as a PDF.
+:::
+
 That completes the basic operations.
 
 On the [Advanced Operations](/advanced/create-collection.md) page,

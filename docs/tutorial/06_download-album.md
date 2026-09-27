@@ -17,6 +17,10 @@ sidebar_position: 6
   <img src="/img/docs/allow-to-download.jpg" alt="複数ファイルのダウンロードの許可" width="500"/>
 :::
 
+:::tip
+人物毎に表示のページでは、「︙」ボタンの「印刷 / PDFに保存」から、人物毎の写真一覧を印刷したり、PDF として保存したりできます。
+:::
+
 基本的な操作方法は以上です。  
 
 [一歩すすんだ操作](/advanced/create-collection.md)のページでは、写真の管理方法や他のユーザを招待する方法などを説明しています。  
