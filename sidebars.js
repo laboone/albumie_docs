@@ -113,25 +113,6 @@ const sidebars = {
       ]
     },
     {
-      type: 'category',
-      label: 'よくあるご質問',
-      items: [
-        {
-          type: 'doc',
-          id: 'faq/requirement'
-        },
-        {
-          type: 'doc',
-          id: 'faq/receipt'
-        },
-        {
-          type: 'doc',
-          id: 'faq/appearance-change'
-        },
-
-      ]
-    },
-    {
       type: 'doc',
       id: "inquiry"
     },

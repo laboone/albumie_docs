@@ -22,6 +22,13 @@ Steps to create a new collection:
 You can create up to 10 collections.
 :::
 
+:::tip Collections help you manage photos from lower and upper grades
+When a child's facial appearance changes significantly between lower and upper grades, facial recognition accuracy may decrease.
+Separating the photos into collections and registering people and analyzing photos in each collection may improve recognition accuracy.
+
+You can also check the number of selected photos by grade, making it easier to balance how often each child appears in the album.
+:::
+
 ## Delete a Collection
 You can delete created collections with these steps:
 

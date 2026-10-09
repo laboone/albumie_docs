@@ -14,9 +14,5 @@
   "sidebar.tutorialSidebar.category.有料プラン": {
     "message": "Paid Plans",
     "description": "The label for category '有料プラン' in sidebar 'tutorialSidebar'"
-  },
-  "sidebar.tutorialSidebar.category.よくあるご質問": {
-    "message": "FAQ",
-    "description": "The label for category 'よくあるご質問' in sidebar 'tutorialSidebar'"
   }
 }

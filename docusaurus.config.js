@@ -56,7 +56,7 @@ const config = {
         },
         blog: false,
         sitemap: {
-          ignorePatterns: ['/enterprise', '/en/enterprise'],
+          ignorePatterns: ['/enterprise', '/en/enterprise', '/faq/**', '/en/faq/**'],
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
